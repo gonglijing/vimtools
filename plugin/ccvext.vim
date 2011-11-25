@@ -100,7 +100,7 @@ endif
 "}}}
 
 "support postfix list {{{
-let s:postfix = ['"*.java"', '"*.h"', '"*.c"', '"*.hpp"', '"*.cpp"', '"*.cc"', '"*.def"'], '"*.inc"'
+let s:postfix = ['"*.java"', '"*.h"', '"*.c"', '"*.hpp"', '"*.cpp"', '"*.cc"', '"*.def"', '"*.inc"']
 "}}}
 
 "Check software environment {{{
