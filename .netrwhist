@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/devl/workspace/svn/gonglijing'
+let g:netrw_dirhist_2='/home/devl/workspace/svn/gonglijing/kernel'
+let g:netrw_dirhist_3='/home/devl/workspace/svn/gonglijing/kernel/fs'
+let g:netrw_dirhist_4='/home/devl/workspace/svn/gonglijing/kernel/fs/adfs'
+let g:netrw_dirhist_5='/home/devl/workspace/svn/gonglijing/kernel'
+let g:netrw_dirhist_6='/home/devl/workspace/svn/gonglijing'
+let g:netrw_dirhist_7='/home/devl/workspace/svn/gonglijing/kernel/drivers/amlogic'
+let g:netrw_dirhist_8='/home/devl/workspace/svn/gonglijing/kernel'
